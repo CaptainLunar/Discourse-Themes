@@ -10,7 +10,7 @@ This is a frail attempt to make Discourse have users be able to switch from avai
 
 * **lunar muffins** - *Web dev* - [CaptainLunar](https://github.com/CaptainLunar)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/CaptainLunar/Discourse-Themes/contributors) who participated in this project.
 
 ## License
 

@@ -1,4 +1,4 @@
 plugins:
-  Discourse_Themes_enabled:
+  DiscourseThemes_enabled:
     default: true
     client: true

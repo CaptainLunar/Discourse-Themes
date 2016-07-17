@@ -3,4 +3,4 @@
 # version: 0.0.1
 # authors: lunarmuffins
 
-enabled_site_setting: :Discourse_Themes_enabled
+enabled_site_setting: Discourse_Themes_enabled

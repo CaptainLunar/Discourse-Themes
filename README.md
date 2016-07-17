@@ -6,6 +6,7 @@ This is a work in progress.
 ## Built With
 
 * Ruby
+* Javascript 
 
 ## Authors
 

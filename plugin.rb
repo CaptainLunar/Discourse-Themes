@@ -4,3 +4,9 @@
 # authors: lunarmuffins
 
 enabled_site_setting :DiscourseThemes_enabled
+
+add_admin_route 'DiscourseThemes.title', 'DiscourseThemes'
+
+Discourse::Application.routes.append do
+    get '/admin/plugins/DiscourseThemes' => 'admin/plugins#index', constraints: StaffConstraint.new
+end

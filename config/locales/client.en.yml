@@ -3,3 +3,4 @@ en:
     DiscourseThemes:
         title: "DiscourseThemes"
         show: "Show Purple Tentacle"
+        hide: "Hide Purple Tentacle"

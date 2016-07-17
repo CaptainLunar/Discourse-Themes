@@ -1,36 +1,37 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Discourse Themes}
+# Discourse Themes
 
-This is a frail attempt to make Discourse have users be able to switch from available forum themes on the fly. 
+This is a frail attempt to make Discourse have users be able to switch from available forum themes on the fly.
 
-## Installation
+## Getting Started
 
-TODO: Describe the installation process
+TODO
 
-## Usage
+### Prerequisities
 
-TODO: Write usage instructions
+TODO 
 
-## Contributing
+```
+TODO: Add examples
+```
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+### Installing
 
-## History
+TODO 
 
-TODO: Write history
+## Built With
 
-## Credits
+* Ruby
 
-TODO: Write credits
+## Authors
+
+* **lunar muffins** - *Initial work* - [CaptainLunar](https://github.com/CaptainLunar)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* MOMMY

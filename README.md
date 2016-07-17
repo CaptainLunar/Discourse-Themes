@@ -1,6 +1,7 @@
 # Discourse Themes
 
 This is a frail attempt to make Discourse have users be able to switch from available forum themes on the fly.
+This is a work in progress.
 
 ## Built With
 

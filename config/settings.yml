@@ -2,6 +2,3 @@ plugins:
   Discourse_Themes_enabled:
     default: true
     client: true
-  Discourse_Themes_disabled:
-    default: false
-    client: false
